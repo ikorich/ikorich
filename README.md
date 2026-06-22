@@ -1,8 +1,8 @@
 # Hey, I'm Vitalii 👋
 
-**Senior Apple Platforms Developer** with 17+ years building native applications across macOS, iOS, iPadOS, tvOS, and watchOS.
+**Agentic Engineer** & **Senior Apple Platforms Developer** with 18+ years building native applications across macOS, iOS, iPadOS, tvOS, and watchOS.
 
-I architect, optimize, and ship — from low-level C++ game engines to modern SwiftUI apps with cloud sync.
+I architect, optimize, and ship native apps - from low-level C++ engines to modern SwiftUI - and build AI agents into products and development workflows.
 
 ---
 
@@ -13,17 +13,17 @@ Swift • SwiftUI • Combine • Objective-C • C++ • Python
 ```
 
 **Platforms:** macOS · iOS · iPadOS · tvOS · watchOS · visionOS
-
-**Specialties:** Performance optimization · MVVM-C architecture · XPC services · AVFoundation · CoreVideo · Payment integrations · AI service APIs
+**Apple Specialties:** Performance optimization · MVVM-C architecture · XPC services · AVFoundation · CoreVideo · Payment integrations
+**Agentic Engineering:** LLM & AI service APIs · Agentic coding (Claude Code) · MCP · AI assistant integration · Dev workflow automation
 
 ---
 
 ### 🏆 Highlights
 
-- **32+ shipped projects** — enterprise apps, consumer products, and games
+- **35+ shipped projects** - enterprise apps, consumer products, and games
 - **Recognized in Ukraine's top GitHub contributors** ([DOU 2017](https://dou.ua/lenta/articles/github-top-2017))
 - **Performance wins:** 10× object mapping improvement, 7× memory reduction, 4× app size decrease
-
+- **Agentic tooling:** built and deployed an AI dev assistant wired into Slack and remote infrastructure
 
 ---
 
@@ -35,4 +35,4 @@ Swift • SwiftUI • Combine • Objective-C • C++ • Python
 
 ---
 
-<sub>Currently focused on SwiftUI cross-platform development and exploring visionOS spatial computing.</sub>
+<sub>Currently building agentic workflows for Apple platform development and shipping SwiftUI cross-platform apps.</sub>
