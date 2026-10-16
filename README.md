@@ -36,7 +36,7 @@ I design AI-powered development systems and deliver products across Apple platfo
 
 ## Connect
 
-![Website](https://img.shields.io/badge/igrsoft.com-000?style=flat&logo=safari&logoColor=white)
+![Website](https://img.shields.io/badge/agnidia.com-000?style=flat&logo=safari&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
 
