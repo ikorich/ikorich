@@ -15,10 +15,10 @@ I design AI-powered development systems and deliver products across Apple platfo
 
 ## Featured Work
 
-- [**Corpflow**](https://github.com/IGRSoft/corpflow) — an agentic workflow orchestrator for structured software delivery
-- [**AI Engineer**](https://github.com/IGRSoft/ai-engineer) — reusable skills and workflows for AI engineering
-- [**Lock Watcher**](https://github.com/IGRSoft/Lock-Watcher) — a macOS security app that captures photos after invalid login attempts
-- [**CameraSnap**](https://github.com/IGRSoft/CameraSnap) — a Swift command-line utility for camera capture
+- [**Corpflow**](https://github.com/Agnidia/corpflow) — an agentic workflow orchestrator for structured software delivery
+- [**AI Engineer**](https://github.com/Agnidia/ai-engineer) — reusable skills and workflows for AI engineering
+- [**Lock Watcher**](https://github.com/Agnidia/Lock-Watcher) — a macOS security app that captures photos after invalid login attempts
+- [**CameraSnap**](https://github.com/Agnidia/CameraSnap) — a Swift command-line utility for camera capture
 
 ## Technology
 
