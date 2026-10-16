@@ -1,6 +1,6 @@
 # Hey, I'm Vitalii 👋
 
-**Agentic AI Engineer** and **Senior Apple Platforms Developer** with 18+ years of experience building and shipping software.
+**AI Engineer** and **Senior Apple Platforms Developer** with 18+ years of experience building and shipping software.
 
 I design AI-powered development systems and deliver products across Apple platforms, React, and Android. My work spans agent orchestration, native applications, performance optimization, and developer tooling.
 
